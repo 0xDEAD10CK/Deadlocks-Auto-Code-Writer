@@ -17,5 +17,5 @@ When running the AutoCodeWriter.py file, it will ask if you want to create a wor
 This just means creating a temporary file where all of the generated files will be saved.
 
 ## Important Notes
-For proper used of this program, VSCode user settings should be changed to prevent auto closing tags.
+For proper used of this program, VSCode user settings should be changed to prevent auto closing tags and auto closing parenthesis.
 If not the IDE will double up on closing tags potentially breaking the code being written.
