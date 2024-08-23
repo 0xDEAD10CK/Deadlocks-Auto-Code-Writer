@@ -8,7 +8,12 @@ Pull the repo down and install all dependencies using,
 ```
 pip install -r requirements.txt
 ```
-Once all dependencies are installed, you can write your request for code in the
+Once all dependencies are installed, create a .env file with this variable,
+```
+OPENAI_API_KEY={Your personal OpenAI Api Key}
+```
+
+You can write your request for code in the
 provided request.txt file. There is already an example request in there.
 
 Then double click the AutoCodeWriter.py to run the program.
