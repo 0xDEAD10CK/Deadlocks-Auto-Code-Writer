@@ -1,0 +1,7 @@
+Create me Website that can display multiple pages.
+This will be written in a Python Flask App.
+This will be a website about a person and their work.
+A home, about, and work examples pages.
+The work page will have places to put code and links to Github.
+I want it neatly put into separate files.
+I want it to be styled cleanly and professionally.
