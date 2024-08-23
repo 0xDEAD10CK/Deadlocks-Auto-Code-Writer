@@ -7,7 +7,7 @@ import subprocess
 import re
 from pywinauto import Application
 from stopwatch import Stopwatch
-from dotenv import load_env
+from dotenv import load_dotenv
 
 load_dotenv()
 
