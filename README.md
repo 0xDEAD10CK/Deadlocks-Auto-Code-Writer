@@ -4,11 +4,18 @@ A fun little AI code writer that takes a prompt from a user and leverages OpenAI
 
 ## How to run this code
 
-Pull the repo down and install all dependencies using
-    pip install -r requirements.txt
-
+Pull the repo down and install all dependencies using,
+```
+pip install -r requirements.txt
+```
 Once all dependencies are installed, you can write your request for code in the
 provided request.txt file. There is already an example request in there.
 
+Then double click the AutoCodeWriter.py to run the program.
+
 When running the AutoCodeWriter.py file, it will ask if you want to create a workspace.
 This just means creating a temporary file where all of the generated files will be saved.
+
+## Important Notes
+For proper used of this program, VSCode user settings should be changed to prevent auto closing tags.
+If not the IDE will double up on closing tags potentially breaking the code being written.
